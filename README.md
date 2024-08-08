@@ -1,2 +1,2 @@
-# dio-trilha-java-b-sico
+# dio-trilha-java
 Desafio do Curso - Realizado na DIO
